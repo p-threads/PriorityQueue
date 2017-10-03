@@ -6,7 +6,7 @@
 
 With any eight numbers ![](https://latex.codecogs.com/gif.latex?a_7%2C%20a_6%2C...%2C%20a_0), taking ![](https://latex.codecogs.com/gif.latex?n%3D1%2C%20n%3D2%2C%20n%3D3%2C...), the equation can output an unique, infinite integer sequence. 
 
-Now generate ![](https://latex.codecogs.com/gif.latex?k) unique, infinite integer sequences, and mix them together. The program will return the ![](https://latex.codecogs.com/gif.latex?n)th smallest. 
+Now generate ![](https://latex.codecogs.com/gif.latex?k) (eg.k=3)unique, infinite integer sequences, and mix them together. The program will return the ![](https://latex.codecogs.com/gif.latex?n)th (eg.n=9)smallest. 
 
 Sample input:
 
