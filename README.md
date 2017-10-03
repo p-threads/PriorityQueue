@@ -9,6 +9,7 @@ With any eight numbers ![](https://latex.codecogs.com/gif.latex?a_7%2C%20a_6%2C.
 Now generate ![](https://latex.codecogs.com/gif.latex?k) unique, infinite integer sequences, and mix them together. The program will return the ![](https://latex.codecogs.com/gif.latex?n)th smallest. 
 
 Sample input:
+
 3
 
 0 0 0 0 1 2 0 0 
@@ -20,4 +21,5 @@ Sample input:
 9
 
 Sample output:
+
 51
