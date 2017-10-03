@@ -1,4 +1,5 @@
 # PriorityQueue
+Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
 
 ![](https://latex.codecogs.com/gif.latex?a_i) are integers, ![](https://latex.codecogs.com/gif.latex?0%5Cleq%20a_i%5Cleq%201000), within one equation, at least two parameters are strictly greater than zero. 
 
