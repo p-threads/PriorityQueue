@@ -10,9 +10,13 @@ Now generate ![](https://latex.codecogs.com/gif.latex?k) unique, infinite intege
 
 Sample input:
 3
+
 0 0 0 0 1 2 0 0 
+
 0 0 0 0 0 0 10 6
+
 0 0 0 0 0 0 25 1
+
 9
 
 Sample output:
